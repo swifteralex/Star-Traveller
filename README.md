@@ -12,5 +12,5 @@ matrix to the player's axis.
 
 ## Controls
 
-Left click accelerates the player forward and right click accelerates the player backwards. Pressing SHIFT increases the amount of acceleration and 
-pressing CTRL decreases the amount of acceleration.
+To player Star Traveller, download and run the .exe within this repository. Left click accelerates the player forward and right click accelerates the
+player backwards. Pressing SHIFT increases the amount of acceleration and pressing CTRL decreases the amount of acceleration.
